@@ -32,6 +32,7 @@ Win11 Tweaker has been featured on various tech sites:
 - [Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Win11-Tweaker.shtml)
 - [MajorGeeks](https://www.majorgeeks.com/files/details/win11_tweaker.html)
 - [FileCR](https://filecr.com/windows/win11-tweaker/)
+- [LoraFile](https://lorafile.com/software/win11-tweaker)
 - [Instalki.pl](https://www.instalki.pl/download/programy/windows/narzedzia/narzedzia-systemowe/win11_tweaker/)
 - [Pesktop](https://pesktop.com/en/windows/win11-tweaker)
 - [KaranPC](https://karanpc.com/win11-tweaker-free-download/)
